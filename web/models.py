@@ -8,8 +8,13 @@ class Course(models.Model):
 	date = models.DateTimeField()
 	amount = models.FloatField()
 	user = models.ForeignKey(User, on_delete=models.PROTECT)
+	def __unicode__(self):
+		return "Mathematics"
+
 class Mark(models .Model):
 	text = models.CharField(max_length=255)
 	date = models.DateTimeField()
 	amount = models.FloatField()
 	user = models.ForeignKey(User, on_delete=models.PROTECT)
+	def __unicode__():
+		return "18.5"
