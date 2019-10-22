@@ -39,7 +39,7 @@ path.py==11.1.0
 pbr==4.2.0
 pefile==2018.8.8
 pexpect==4.6.0
-Pillow==5.2.0
+Pillow==6.2.0
 pipenv==2018.10.13
 pluggy==0.7.1
 prettytable==0.7.2
