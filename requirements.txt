@@ -47,7 +47,7 @@ progress==1.4
 prompt-toolkit==1.0.15
 psutil==5.4.6
 ptyprocess==0.6.0
-py==1.6.0
+py==1.10.0
 pycairo==1.17.0
 Pygments==2.2.0
 pygobject==3.28.3
